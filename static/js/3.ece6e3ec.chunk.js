@@ -1,0 +1,2 @@
+(this["webpackJsonppoet-main"]=this["webpackJsonppoet-main"]||[]).push([[3],{31:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return i}));e(1);var c=e(0);function i(n){return Object(c.jsxs)("div",{children:[Object(c.jsx)("h3",{children:"Edge8 Module Configurator"}),Object(c.jsx)("button",{value:"back",onClick:function(t){return n.backFunction(t.target.value)},children:"Back"})]})}}}]);
+//# sourceMappingURL=3.ece6e3ec.chunk.js.map
